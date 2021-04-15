@@ -8,13 +8,16 @@ En este repositorio encontraras
 
 Tutorial para utilizar estas herramientas
 
-Instalar librerias 
+1. Clona este repositorio
 
+2. Instalar librerias desde tu terminal 
+
+```
 pip install pygame
 
 pip install oscpy
 
 pip install scikit-learn
 
-
+```
 
