@@ -6,11 +6,15 @@ En este repositorio encontraras
 - AIRE_v3 raspberry pi
 - Aire_v3
 
-Tutorial para utilizar estas herramientas
+Tutorial para ML en python 3.7.7
 
-1. Clona este repositorio
+1. Instalar conda o mini conda
 
-2. Instalar librerias desde tu terminal 
+https://docs.conda.io/en/latest/miniconda.html
+
+2. Clona este repositorio
+
+3. Instalar librerias desde tu terminal 
 
 ```
 pip install pygame
