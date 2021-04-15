@@ -31,3 +31,17 @@ pip install scikit-learn
 ## Ejemplos de aplicacion
 
 
+
+
+
+https://user-images.githubusercontent.com/911999/114933780-b0e53f00-9dfe-11eb-914b-b65bfd890294.mov
+
+
+
+
+
+
+
+
+
+
