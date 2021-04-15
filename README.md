@@ -27,3 +27,7 @@ pip install scikit-learn
 
 
 ## Descripcion tecnica del ML
+
+## Ejemplos de aplicacion
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/517332681" width="640" height="685" frameborder="0" allowfullscreen></iframe>
