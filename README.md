@@ -2,11 +2,13 @@
 Machine learning tools para análisis de patrones y transmisión de datos desde el API de Resource Watch
 
 En este repositorio encontraras 
-- Aire CDMX
+- Aire CDMX: 
   Contiene una versión dedicada solo a las 33 estaciones de monitoro ambiental
-- AIRE_v3 raspberry pi
+  
+- AIRE_v3 raspberry pi:
   Una versión con información global que puede ser ejecutada desde una rapsberry pi de forma standalone, crenado un micro servidor OSC para transmisión de datos.
-- Aire_v3
+
+- Aire_v3:
   Una versión completa para ejecutarse desde escritorio.
 
 ##Tutorial para ML en python 3.7.7
