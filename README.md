@@ -8,4 +8,13 @@ En este repositorio encontraras
 
 Tutorial para utilizar estas herramientas
 
+Instalar librerias 
+
+pip install pygame
+
+pip install oscpy
+
+pip install scikit-learn
+
+
 
